@@ -1,0 +1,20 @@
+{
+  "name": "igoarcade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zenigata",
+  "window": {
+    "toolbar": false,
+    "width": 800,
+    "height": 500
+  },
+  "license": "ISC",
+  "dependencies": {
+    "pretty-bytes": "^1.0.2",
+    "pachi": "~0.0.1"
+  }
+}
